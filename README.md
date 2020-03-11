@@ -1,3 +1,26 @@
+## rqt_pose_view (noetic) - 0.5.9-1
+
+The packages in the `rqt_pose_view` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic rqt_pose_view` on `Wed, 11 Mar 2020 22:53:02 -0000`
+
+The `rqt_pose_view` package was released.
+
+Version of package(s) in repository `rqt_pose_view`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_pose_view.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.5.9-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## rqt_pose_view (melodic) - 0.5.8-0
 
 The packages in the `rqt_pose_view` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic rqt_pose_view` on `Thu, 22 Mar 2018 16:21:20 -0000`
